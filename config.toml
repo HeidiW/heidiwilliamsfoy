@@ -1,0 +1,4 @@
+baseURL = "https://heidiwilliamsfoy.space/"
+languageCode = "en-us"
+title = "Personal site"
+theme = "sam"

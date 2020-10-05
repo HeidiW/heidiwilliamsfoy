@@ -1,4 +1,13 @@
 baseURL = "https://heidiwilliamsfoy.space/"
 languageCode = "en-us"
-title = "Personal site"
+title = "Heidi Williams-Foy"
 theme = "sam"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about"
+
